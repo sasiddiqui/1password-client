@@ -26,7 +26,7 @@ setup(
         "bs4>=0.0.1",
         "pycryptodome>=3.9.7"
     ],
-    python_requires='>=3.7',
+    python_requires='>=3.6',
     license="MIT",
     url="https://github.com/wandera/1password-client",
     classifiers=["Programming Language :: Python :: 3",
